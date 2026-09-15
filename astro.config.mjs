@@ -7,7 +7,7 @@ export default defineConfig({
 	site: "https://marcusradell.github.io/bro-skatepark",
 	integrations: [
 		starlight({
-			title: 'Pages',
+			title: 'Bro Skatepark',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
