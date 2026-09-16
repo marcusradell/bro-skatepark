@@ -4,7 +4,6 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://marcusradell.github.io/bro-skatepark",
 	integrations: [
 		starlight({
 			title: 'Bro Skatepark',
